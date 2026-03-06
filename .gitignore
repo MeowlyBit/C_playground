@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Embedded / firmware outputs
+*.bin
+*.elf
+*.hex
+
+# Temporary files
+*.tmp
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
