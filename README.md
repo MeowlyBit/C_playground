@@ -6,8 +6,6 @@ This project documents my journey from basic C concepts toward understanding com
 
 Most explanations and notes are written directly inside the source code as comments.
 
----
-
 ## Topics covered so far
 
 ### Module 1
@@ -22,21 +20,17 @@ Most explanations and notes are written directly inside the source code as comme
 - operator precedence and parentheses
 - `char` type and ASCII operations
 
----
-
 ## Repository structure
 
 
-C_playground
-│
-├─ module_1
-├─ module_2
-└─ ...
-
+```
+C_playground/
+├── module_1/
+├── module_2/
+└── README.md
+```
 
 Each module contains small programs and experiments exploring specific C concepts.
-
----
 
 ## Goal of this repository
 
