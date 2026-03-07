@@ -19,6 +19,9 @@ Most explanations and notes are written directly inside the source code as comme
 - arithmetic operators
 - operator precedence and parentheses
 - `char` type and ASCII operations
+- basic `if` conditions
+- bit operations and bit masks
+- ASCII characters represented in binary
 
 ## Repository structure
 
